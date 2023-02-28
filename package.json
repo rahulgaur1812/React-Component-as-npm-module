@@ -2,7 +2,9 @@
   "name": "react-component-as-npm-module",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "source": "src/index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/rahulgaur1812/React-Component-as-npm-module.git"
   },
-  "author": "",
+  "author": "Rahul Gaur",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rahulgaur1812/React-Component-as-npm-module/issues"
