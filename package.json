@@ -1,0 +1,29 @@
+{
+  "name": "react-component-as-npm-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgaur1812/React-Component-as-npm-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulgaur1812/React-Component-as-npm-module/issues"
+  },
+  "homepage": "https://github.com/rahulgaur1812/React-Component-as-npm-module#readme",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "styled-components": "^5.3.6"
+  }
+}
